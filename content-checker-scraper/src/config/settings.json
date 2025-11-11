@@ -1,0 +1,12 @@
+{
+    "url": "https://example.com/product-page",
+    "selector": ".price",
+    "email": {
+        "from_email": "youremail@example.com",
+        "to_email": "recipient@example.com",
+        "smtp_server": "smtp.example.com",
+        "smtp_port": 587,
+        "password": "yourpassword"
+    },
+    "interval": 3600
+}
